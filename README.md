@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my MERN Development Journey<br>I'm looking to collaborate with many real world projects<br>
+I'm currently working on improving my backend architecture skill set and looking to collaborate with many real world projects<br>
 
 
 ## 🌐 Socials:
